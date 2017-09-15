@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_splashscreen">Shopmyworld</string>
+    <string name="app_main">หน้าหลัก</string>
+    <string name="app_display">Display</string>
+</resources>
